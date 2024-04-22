@@ -12,5 +12,11 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "express": "^4.19.2"
-  }
+  },
+  
+    "scripts": {
+      "custom-build": "echo 'No build steps'"
+    }
+  
+  
 }
